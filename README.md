@@ -12,6 +12,17 @@ This workshop is designed to give you some hands-on experience with machine lear
 
 Feel free to modify the code, add and remove code, and copy the code for you own applications. 
 
+## Do I need any computer programming experience
+
+No
+
+Some Python skills will help, but you should be able to complete this tutorial without prior Python or computer programming experience.
+
+This tutorial is designed to reduce the "cost of entry" to doing machine learning. All the code is given, with options to modifying the code to try other machine learning algorithms given as well.
+
+In the final notebook, you are given a section where you can copy code you have used in Parts 2, 3, and 4 to practise copying and writing machine learning in python if you would like a challenge!
+
+
 ## How to use these notebooks
 
 These notebooks are run in Google Colab, which works like Microsoft Word but you can also perform computer programs with them. We will be using a computer program called Python to analyse nanoparticles. 
