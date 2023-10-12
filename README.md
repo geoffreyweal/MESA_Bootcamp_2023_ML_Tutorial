@@ -33,6 +33,6 @@ To begin, first click on the *Open in Colab* button below. This will open a note
 
 **Note: When you click the *Open in Colab* button, you may be ask that you need allow access to "Google Colab".** If asked, allow Google Colabs to work with your Google Account. 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geoffreyweal/MESA_Bootcamp_ML_Tutorial/blob/main/Notebooks/Part_1.0_Introduction_to_Tutorial.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geoffreyweal/MESA_Bootcamp_2023_ML_Tutorial/blob/main/Notebooks/Part_1.0_Introduction_to_Tutorial.ipynb)
 
 Have fun!
